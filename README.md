@@ -2,6 +2,15 @@
 
 This repository contains Python code to visualize depth images in the form of 3D wireframe meshes. The code uses OpenCV to read depth images and Matplotlib for 3D plotting, allowing users to create detailed depth visualizations with minimal effort.
 
+<div align="center">
+    <a href="https://github.com/bharath5673/3D-Depth-Wireframe-Mesh">
+        <img src="output_depth.gif" alt="YOLOv8-3D" width="1000"/>
+    </a>
+    <p>
+        3D Depth Wireframe Mesh Visualization.
+    </p>
+</div>
+
 ## Features:
 - Load depth images and visualize them as 3D wireframe meshes.
 - Optional downsampling to adjust visualization performance.
